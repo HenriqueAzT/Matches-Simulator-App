@@ -7,3 +7,6 @@ App Android Nativo de Simulação de Partidas
 
 2. Componentes UI/UX
       - [componentes-layouts-ui-ux-em-apps-android](https://github.com/HenriqueAzT/Matches-Simulator-App/tree/release/componentes-layouts-ui-ux-em-apps-android)
+
+3. Finalização do App
+      - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/HenriqueAzT/Matches-Simulator-App/tree/release/java-e-kotlin-juntos-construindo-apps-android)
