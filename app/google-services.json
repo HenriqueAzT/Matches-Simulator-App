@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167747204163",
+    "project_id": "matches-simulator-digione",
+    "storage_bucket": "matches-simulator-digione.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167747204163:android:1c3f5912b8da5b1f2590f6",
+        "android_client_info": {
+          "package_name": "me.dio.matchsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167747204163-6gssiq9682m81en475r7iogau4tkd96u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_fuX12k8Gp7Onkdr5wplTAMBhlbSmKJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167747204163-6gssiq9682m81en475r7iogau4tkd96u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
